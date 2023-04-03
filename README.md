@@ -6,7 +6,9 @@ UCL IRDR Centre for Digtial Public Health in Emergencies (dPHE) developed the 'M
 
 Age / Gender / Location
 
-## Behavioural Changes (Activities) throughout 3 Phases of COVID-19 Lockdown
+## Behavioural Changes 
+
+During 3 Phases of COVID-19 Lockdown; The frequency and differences of activities done 
 
 ## Sentiment Analysis
 

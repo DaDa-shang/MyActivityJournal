@@ -12,3 +12,4 @@ During 3 Phases of COVID-19 Lockdown; The frequency and differences of activitie
 
 ## Sentiment Analysis
 
+Based on the score (compulsory) user provided when journaling each activity, the sentiment analysis on their attitudes toward activity could be done and indicated the difference in each phases of lockdown

@@ -47,4 +47,27 @@ plt.ylabel('Group Size')
 for a, b in zip(age_dist['age_group'], age_dist['num']):
     plt.text(a,b, '%.0f'%b, ha ='center', va='bottom')
 
+   
+# Gender distribution
+Gender = Users_data.groupby('gender')['_id'].count().reset_index().rename(columns={'_id':'num'})
+Gender_distribution = Gender.iloc[5:7]
+
+# plot pie chart
+labels=[u'male', u'female']
+size = [534, 810]
+explode =(0,0)
+patches, text1, text2 = plt.pie(size, explode=explode, labels=labels, autopct='%3.2f%%')
+
+# Geographic location 
+Country = Users_data.groupby('country')['_id'].count().reset_index().rename(columns={'_id':'num'})
+City = Users_data.groupby('city')['_id'].count().reset_index().rename(columns={'_id':'num'})
+
+# Location data cleaning
+
+
+# plot location
+plt.barh(Country['country'], Country['num'])
+plt.title('Geographic Distribution by Country')
+plt.xlabel('Country')
+plt.ylabel('Group Size')
 

@@ -44,6 +44,7 @@ plt.bar(age_dist['age_group'],age_dist['num'])
 plt.title('Users Age Distribution')
 plt.xlabel('Age Range')
 plt.ylabel('Group Size')
-
+for a, b in zip(age_dist['age_group'], age_dist['num']):
+    plt.text(a,b, '%.0f'%b, ha ='center', va='bottom')
 
 

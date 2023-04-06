@@ -6,6 +6,9 @@ UCL IRDR Centre for Digtial Public Health in Emergencies (dPHE) developed the 'M
 
 Age / Gender / Location 
 
+Summary: until the 16th March 2022, there has been 1,366 registered users, of which xxx of them has recorded at least one activity. Among these users (all registered), 534 users are male (39.09%), 810 users are female (59.30%), and the rest have unknown gender or perfer not to say (1.61%). In terms of age range, there are 347 people aged between 18 to 24, 259 people aged between 25-34, 209 people aged between 35-44, 251 people aged between 45-54, 196 people aged between 55-64, and 104 aged above 65. In terms of demographic, this app’s suers are pre-dominantly from the United Kingdom, accounting 1045 of the total users (76.5%).
+
+
 ## Behavioural Changes 
 
 During 3 Phases of COVID-19 Lockdown; The frequency and differences of activities done 

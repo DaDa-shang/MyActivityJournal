@@ -10,7 +10,7 @@ Summary: until the 16th March 2022, there has been 1,366 registered users, of wh
 
 ## Behavioural Changes thoughout four phases of the pandemic 
 
-During 3 Phases of COVID-19 Lockdown; The frequency and differences of activities done 
+During 3 Phases of COVID-19 Lockdown; The frequency and differences of activities done.
 
 ## Individual adaptations of activities throughout the pandemic
 

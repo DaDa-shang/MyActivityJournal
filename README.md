@@ -12,11 +12,13 @@ Summary: until the 16th March 2022, there has been 1,366 registered users, of wh
 
 During 7 Phases of COVID-19 Lockdown; The frequency and differences of activities done.
 
-# Phase 0: 2020.01 - 2020.06.14 (First Lockdown)
-# Phase 1: 2020.06.15 - 2020.09.13 (Ease of First Lockdown)
-#Phase 2: 2020.09.14 - 2020.12.01 (Second Lockdown)
-#Phase 3: 2020.12.02 - 2021.01.05 (Ease of Second Lockdown)
-#Phase 4: 2021.01.06 - 2021.03.07 (Third Lockdown)
+Phase 0: 2020.01 - 2020.06.14 (First Lockdown)
+
+Phase 1: 2020.06.15 - 2020.09.13 (Ease of First Lockdown)
+
+Phase 2: 2020.09.14 - 2020.12.01 (Second Lockdown)
+Phase 3: 2020.12.02 - 2021.01.05 (Ease of Second Lockdown)
+Phase 4: 2021.01.06 - 2021.03.07 (Third Lockdown)
 Phase 5: 20210308 - 20210718 (Stepwise ease of 3rd Lockdown)
 Phase 6: 20210719 - 20211207 (Freeday)
 Phase 7: 20211208 - 20220316 (Omicron)

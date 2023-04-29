@@ -22,11 +22,11 @@ Phase 3: 2020.12.02 - 2021.01.05 (Ease of Second Lockdown)
 
 Phase 4: 2021.01.06 - 2021.03.07 (Third Lockdown)
 
-Phase 5: 20210308 - 20210718 (Stepwise ease of 3rd Lockdown)
+Phase 5: 2021.03.08 - 2021.07.18 (Stepwise ease of 3rd Lockdown)
 
-Phase 6: 20210719 - 20211207 (Freeday)
+Phase 6: 2021.07.19 - 2021.12.07 (Freeday)
 
-Phase 7: 20211208 - 20220316 (Omicron)
+Phase 7: 2021.12.08 - 2022.03.16 (Omicron)
 
 ## Individual adaptations of activities throughout the pandemic
 

@@ -28,6 +28,10 @@ Phase 6: 2021.07.19 - 2021.12.07 (Freeday)
 
 Phase 7: 2021.12.08 - 2022.03.16 (Omicron)
 
+[Activity Counts during 7 Phases.pdf](https://github.com/DaDa-shang/MyActivityJournal/files/11366590/Activity.Counts.during.7.Phases.pdf)
+
+
+
 ## Individual adaptations of activities throughout the pandemic
 
 ## Sentiment Analysis

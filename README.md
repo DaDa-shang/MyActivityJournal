@@ -12,6 +12,8 @@ Summary: until the 16th March 2022, there has been 1,366 registered users, of wh
 (https://www.instituteforgovernment.org.uk/data-visualisation/timeline-coronavirus-lockdowns)
 During 7 Phases of COVID-19 Lockdown; The frequency and differences of activities done.
 
+![image](https://github.com/DaDa-shang/MyActivityJournal/blob/main/Visualisation/截屏2023-05-04%2018.58.00.png)
+
 Phase 0: 2020.01 - 2020.06.14 (First Lockdown)
 
 Phase 1: 2020.06.15 - 2020.09.13 (Ease of First Lockdown)
@@ -33,6 +35,10 @@ Phase 7: 2021.12.08 - 2022.03.16 (Omicron)
 
 
 ## Individual adaptations of activities throughout the pandemic
+
+![image](https://github.com/DaDa-shang/MyActivityJournal/blob/main/Visualisation/截屏2023-05-04%2018.58.28.png)
+
+![image](https://github.com/DaDa-shang/MyActivityJournal/blob/main/Visualisation/截屏2023-05-04%2018.58.58.png)
 
 ## Sentiment Analysis
 

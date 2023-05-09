@@ -42,5 +42,4 @@ Phase 7: 2021.12.08 - 2022.03.16 (Omicron)
 
 ## Sentiment Analysis
 
-Based on the score (compulsory) user provided when journaling each activity, the sentiment analysis on their attitudes toward activity could be done and
-indicated the difference in each phases of lockdown.
+Based on the score (compulsory) user provided when journaling each activity, the sentiment analysis on their attitudes toward activity could be done and indicated the difference in each phases of lockdown
